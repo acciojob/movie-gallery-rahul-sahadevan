@@ -1,2 +1,53 @@
+.fluid{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	alignitems:center;
+	position:absolute;
+	
+}
 
+.fluid1>img{
+	width:200px;
+	height:200px;
+	margin:10px;
+}
+.fluid2>img{
+	width:200px;
+	height:200px;
+	margin:10px;
+}
+.fluid4>img{
+	width:200px;
+	height:200px;
+	margin:10px;
+}
+.fluidl1>img{
+	width:200px;
+	height:200px;
+	margin:10px;
+}
+.fluid12{
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+.fluid6{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	position:relative;
+}
+.fluid3{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	position:relative;
+}
+.fluidl{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	position:relative;
+}
 /* Your CSS Code here. */
